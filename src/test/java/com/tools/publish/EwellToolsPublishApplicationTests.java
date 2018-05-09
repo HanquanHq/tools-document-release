@@ -1,4 +1,4 @@
-package ewell.tools.publish;
+package com.tools.publish;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

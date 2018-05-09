@@ -1,4 +1,4 @@
-package ewell.tools.controller;
+package com.tools.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

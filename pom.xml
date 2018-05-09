@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ewell-tools</groupId>
-    <artifactId>ewell-tools-publish</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>com.tools</groupId>
+    <artifactId>tools-document-release</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>ewell-tools-publish</name>
-    <description>Demo project for Spring Boot</description>
+    <name>tools-document-release</name>
+    <description>Demo project for Spring Boot for Document release</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
