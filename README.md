@@ -1,5 +1,5 @@
 # tools-document-release
-基于SpringBoot的简易文件发布工具，提供文件下载功能
+基于SpringBoot的简易文件发布工具，提供文件上传下载功能
 ### 使用方法
 * 配置服务端口号
 ```
@@ -14,4 +14,11 @@ server.port=8083
 ```
 http://localhost:8083/download/share?fileName=xxx
 ```
- 
+* 单个上传地址
+ ```
+ http://localhost:8083/upload.html
+ ```
+* 多个文件上传地址
+ ```
+ http://localhost:8083/multiUpload.html
+ ```
